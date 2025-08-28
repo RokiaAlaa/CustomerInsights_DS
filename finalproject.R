@@ -5,7 +5,7 @@ library(arulesViz)
 library(svDialogs)
 
 ui <- fluidPage(
-  titlePanel("Our DS Project"),
+  titlePanel("Customer Insights: Clustering & Association Rulest"),
   
   sidebarLayout(
     sidebarPanel(
