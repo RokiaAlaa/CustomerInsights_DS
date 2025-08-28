@@ -30,16 +30,21 @@ A Data Science project aimed at analyzing customer transactional data to uncover
 ## **How to Run**
 
 1. Clone the repository:
+
+```bash
 git clone https://github.com/RokiaAlaa/CustomerInsights_DS.git
+```
 
+2. Open the R project and launch the Shiny app:
 
-2. Open the R project and launch the Shiny app: 
+```R
 shiny::runApp()
+```
 
-3. Upload your dataset (CSV format) and interact with the app.
+3. Upload the dataset (CSV format) [attached with the source code] and interact with the app.
 
 ---
 
 ## **Dependencies**
 
-* R packages: [shiny, dplyr, arules, arulesViz, svDialogs]
+* R packages: `shiny`, `dplyr`, `arules`, `arulesViz`, `svDialogs`
